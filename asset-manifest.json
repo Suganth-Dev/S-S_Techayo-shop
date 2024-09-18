@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/S-S_Techayo-shop/static/css/main.bce5cecd.css",
+    "main.js": "/S-S_Techayo-shop/static/js/main.e310f3ec.js",
+    "static/js/453.34e2246b.chunk.js": "/S-S_Techayo-shop/static/js/453.34e2246b.chunk.js",
+    "index.html": "/S-S_Techayo-shop/index.html",
+    "main.bce5cecd.css.map": "/S-S_Techayo-shop/static/css/main.bce5cecd.css.map",
+    "main.e310f3ec.js.map": "/S-S_Techayo-shop/static/js/main.e310f3ec.js.map",
+    "453.34e2246b.chunk.js.map": "/S-S_Techayo-shop/static/js/453.34e2246b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bce5cecd.css",
+    "static/js/main.e310f3ec.js"
+  ]
+}
