@@ -6,6 +6,7 @@ import { useAuth0 } from "@auth0/auth0-react";
 import { BiLogOut, BiUser} from "react-icons/bi";
 import {Link} from "react-router-dom";
 import './nav.css'
+import logo from './image/logo.webp'
 
 
 const Nav = ({search, setSearch, searchProduct}) => {
@@ -25,7 +26,7 @@ const Nav = ({search, setSearch, searchProduct}) => {
         </div>
         <div className='mid_header'>
             <div className='logo'>
-              <img src='image/logo.webp' alt='logo'></img>
+              <img src={logo} alt='logo'></img>
 
             </div>
             <div className='search_box'>

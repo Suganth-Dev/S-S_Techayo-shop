@@ -3,6 +3,7 @@ import './home.css'
 import { Link } from 'react-router-dom'
 import Homeproduct from './home_product'
 import { FaEye, FaHeart, FaLinkedin, FaGithubSquare, FaCartPlus   } from "react-icons/fa";
+import myphoto from './image/suga photo upd.png'
 
 const Home = ({addtocart}) => {
     //Product category
@@ -124,7 +125,7 @@ const Home = ({addtocart}) => {
                                 </div>
                                 <div className='detail'>
                                     <div className='img_box'>
-                                        <img src='image/suga photo upd.png' alt='testmonial'></img>
+                                        <img src={myphoto} alt='testmonial'></img>
                                     </div>
                                     <div className='info'>
                                         <h3>Sugan</h3>
