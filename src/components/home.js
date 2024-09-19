@@ -3,7 +3,7 @@ import './home.css'
 import { Link } from 'react-router-dom'
 import Homeproduct from './home_product'
 import { FaEye, FaHeart, FaLinkedin, FaGithubSquare, FaCartPlus   } from "react-icons/fa";
-import myphoto from './image/suga photo upd.png'
+import myphoto from './image/suga_photo.png'
 
 const Home = ({addtocart}) => {
     //Product category
