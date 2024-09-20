@@ -1,23 +1,34 @@
 {
   "files": {
     "main.css": "/S-S_Techayo-shop/static/css/main.76c2faa7.css",
-    "main.js": "/S-S_Techayo-shop/static/js/main.065f3337.js",
+    "main.js": "/S-S_Techayo-shop/static/js/main.524e9929.js",
     "static/js/453.34e2246b.chunk.js": "/S-S_Techayo-shop/static/js/453.34e2246b.chunk.js",
     "static/media/Multi-Banner-5.webp": "/S-S_Techayo-shop/static/media/Multi-Banner-5.e5896add99d2449723ab.webp",
     "static/media/slide-1.webp": "/S-S_Techayo-shop/static/media/slide-1.c4a81f50b414c8a83765.webp",
+    "static/media/p10.jpg": "/S-S_Techayo-shop/static/media/p10.6327e864f1cfccbf1331.jpg",
     "static/media/suga_photo.png": "/S-S_Techayo-shop/static/media/suga_photo.35f13c2c687e20a8afba.png",
+    "static/media/p9.jpg": "/S-S_Techayo-shop/static/media/p9.394eb27873c9761dfb2a.jpg",
+    "static/media/p4.webp": "/S-S_Techayo-shop/static/media/p4.33384b721d3f320e793c.webp",
+    "static/media/p8.webp": "/S-S_Techayo-shop/static/media/p8.33384b721d3f320e793c.webp",
+    "static/media/p1.webp": "/S-S_Techayo-shop/static/media/p1.a6e665068f84942d1803.webp",
+    "static/media/p11.jpg": "/S-S_Techayo-shop/static/media/p11.baa757c719c0f70c88bf.jpg",
     "static/media/Multi-Banner-3.webp": "/S-S_Techayo-shop/static/media/Multi-Banner-3.04af832f8f84581cee1e.webp",
+    "static/media/p6.webp": "/S-S_Techayo-shop/static/media/p6.a6b9fe6030a23712b293.webp",
+    "static/media/p2.webp": "/S-S_Techayo-shop/static/media/p2.7a0e6f59a46805604183.webp",
+    "static/media/p5.webp": "/S-S_Techayo-shop/static/media/p5.6c123010879ff03013a2.webp",
+    "static/media/p7.webp": "/S-S_Techayo-shop/static/media/p7.8a2f088d2d5a35d430e1.webp",
     "static/media/Banner-1.avif": "/S-S_Techayo-shop/static/media/Banner-1.6c33543db4d3d6eeca58.avif",
+    "static/media/p3.webp": "/S-S_Techayo-shop/static/media/p3.e82488caad3ffd7af3fa.webp",
     "static/media/Multi-banner-4.avif": "/S-S_Techayo-shop/static/media/Multi-banner-4.8066d9fdcafa6fe74c13.avif",
     "static/media/Multi-banner-2.avif": "/S-S_Techayo-shop/static/media/Multi-banner-2.56b12c88f5f8c6e039c5.avif",
     "static/media/logo.webp": "/S-S_Techayo-shop/static/media/logo.796d25da868df8ee3227.webp",
     "index.html": "/S-S_Techayo-shop/index.html",
     "main.76c2faa7.css.map": "/S-S_Techayo-shop/static/css/main.76c2faa7.css.map",
-    "main.065f3337.js.map": "/S-S_Techayo-shop/static/js/main.065f3337.js.map",
+    "main.524e9929.js.map": "/S-S_Techayo-shop/static/js/main.524e9929.js.map",
     "453.34e2246b.chunk.js.map": "/S-S_Techayo-shop/static/js/453.34e2246b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76c2faa7.css",
-    "static/js/main.065f3337.js"
+    "static/js/main.524e9929.js"
   ]
 }
