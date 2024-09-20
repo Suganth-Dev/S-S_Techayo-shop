@@ -1,10 +1,24 @@
+import productImage1 from './image/p1.webp';
+import productImage2 from './image/p2.webp';
+import productImage3 from './image/p3.webp';
+import productImage4 from './image/p4.webp';
+import productImage5 from './image/p5.webp';
+import productImage6 from './image/p6.webp';
+import productImage7 from './image/p7.webp';
+import productImage8 from './image/p8.webp';
+import productImage9 from './image/p9.jpg';
+import productImage10 from './image/p10.jpg';
+import productImage11 from './image/p11.jpg';
+import productImage12 from './image/p12.jpg';
+
+
 const Homeproduct =
 [
     {
         id:1,
         Name: 'product1',
         price:'26',
-        image: 'image/p1.webp',
+        image: productImage1,
         cat:'tv',
         type:'new',
     },
@@ -12,7 +26,7 @@ const Homeproduct =
         id:2,
         Name: 'product2',
         price:'96',
-        image: 'image/p2.webp',
+        image: productImage2,
         cat:'laptop',
         type:'new',
     },
@@ -20,7 +34,7 @@ const Homeproduct =
         id:3,
         Name: 'product3',
         price:'236',
-        image: 'image/p3.webp',
+        image: productImage3,
         cat:'watch',
         type:'new',
     },
@@ -28,7 +42,7 @@ const Homeproduct =
         id:4,
         Name: 'product4',
         price:'236',
-        image: 'image/p9.jpg',
+        image: productImage4,
         cat:'laptop',
         type:'new',
     },
@@ -36,7 +50,7 @@ const Homeproduct =
         id:5,
         Name: 'product5',
         price:'98',
-        image: 'image/p4.webp',
+        image: productImage5,
         cat:'speaker',
         type:'featured',
     },
@@ -44,7 +58,7 @@ const Homeproduct =
         id:6,
         Name: 'product6',
         price:'56',
-        image: 'image/p5.webp',
+        image: productImage6,
         cat:'electronics',
         type:'featured',
     },
@@ -52,7 +66,7 @@ const Homeproduct =
         id:7,
         Name: 'product7',
         price:'563',
-        image: 'image/p10.jpg',
+        image: productImage7,
         cat:'headphone',
         type:'featured',
     },
@@ -60,7 +74,7 @@ const Homeproduct =
         id:8,
         Name: 'product8',
         price:'599',
-        image: 'image/p11.jpg',
+        image: productImage8,
         cat:'electronics',
         type:'featured',
     },
@@ -68,7 +82,7 @@ const Homeproduct =
         id:9,
         Name: 'product9',
         price:'66',
-        image: 'image/p6.webp',
+        image: productImage9,
         cat:'phone',
         type:'top',
     },
@@ -76,7 +90,7 @@ const Homeproduct =
         id:10,
         Name: 'product10',
         price:'76',
-        image: 'image/p7.webp',
+        image: productImage10,
         cat:'speaker',
         type:'top',
     },
@@ -84,7 +98,7 @@ const Homeproduct =
         id:11,
         Name: 'product11',
         price:'86',
-        image: 'image/p8.webp',
+        image: productImage11,
         cat:'speaker',
         type:'top',
     },
@@ -92,7 +106,7 @@ const Homeproduct =
         id:12,
         Name: 'product12',
         price:'98',
-        image: 'image/p12.jpg',
+        image: productImage12,
         cat:'speaker',
         type:'top',
     },
