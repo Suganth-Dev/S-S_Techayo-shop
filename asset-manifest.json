@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/S-S_Techayo-shop/static/css/main.bce5cecd.css",
-    "main.js": "/S-S_Techayo-shop/static/js/main.e310f3ec.js",
+    "main.css": "/S-S_Techayo-shop/static/css/main.76c2faa7.css",
+    "main.js": "/S-S_Techayo-shop/static/js/main.065f3337.js",
     "static/js/453.34e2246b.chunk.js": "/S-S_Techayo-shop/static/js/453.34e2246b.chunk.js",
+    "static/media/Multi-Banner-5.webp": "/S-S_Techayo-shop/static/media/Multi-Banner-5.e5896add99d2449723ab.webp",
+    "static/media/slide-1.webp": "/S-S_Techayo-shop/static/media/slide-1.c4a81f50b414c8a83765.webp",
+    "static/media/suga_photo.png": "/S-S_Techayo-shop/static/media/suga_photo.35f13c2c687e20a8afba.png",
+    "static/media/Multi-Banner-3.webp": "/S-S_Techayo-shop/static/media/Multi-Banner-3.04af832f8f84581cee1e.webp",
+    "static/media/Banner-1.avif": "/S-S_Techayo-shop/static/media/Banner-1.6c33543db4d3d6eeca58.avif",
+    "static/media/Multi-banner-4.avif": "/S-S_Techayo-shop/static/media/Multi-banner-4.8066d9fdcafa6fe74c13.avif",
+    "static/media/Multi-banner-2.avif": "/S-S_Techayo-shop/static/media/Multi-banner-2.56b12c88f5f8c6e039c5.avif",
+    "static/media/logo.webp": "/S-S_Techayo-shop/static/media/logo.796d25da868df8ee3227.webp",
     "index.html": "/S-S_Techayo-shop/index.html",
-    "main.bce5cecd.css.map": "/S-S_Techayo-shop/static/css/main.bce5cecd.css.map",
-    "main.e310f3ec.js.map": "/S-S_Techayo-shop/static/js/main.e310f3ec.js.map",
+    "main.76c2faa7.css.map": "/S-S_Techayo-shop/static/css/main.76c2faa7.css.map",
+    "main.065f3337.js.map": "/S-S_Techayo-shop/static/js/main.065f3337.js.map",
     "453.34e2246b.chunk.js.map": "/S-S_Techayo-shop/static/js/453.34e2246b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bce5cecd.css",
-    "static/js/main.e310f3ec.js"
+    "static/css/main.76c2faa7.css",
+    "static/js/main.065f3337.js"
   ]
 }
