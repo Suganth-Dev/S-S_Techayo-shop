@@ -4,6 +4,11 @@ import { Link } from 'react-router-dom'
 import Homeproduct from './home_product'
 import { FaEye, FaHeart, FaLinkedin, FaGithubSquare, FaCartPlus   } from "react-icons/fa";
 import myphoto from './image/suga_photo.png'
+import banner1 from './image/Banner-1.avif'
+import banner2 from './image/Multi-banner-2.avif'
+import banner3 from './image/Multi-Banner-3.webp'
+import banner4 from './image/Multi-banner-4.avif'
+import banner5 from './image/Multi-Banner-5.webp'
 
 const Home = ({addtocart}) => {
     //Product category
@@ -160,19 +165,19 @@ const Home = ({addtocart}) => {
                 <div className='container'>
                     <div className='left_box'>
                         <div className='box'>
-                            <img src='image/Banner-1.avif' alt='banner'></img>
+                            <img src={banner1} alt='banner1'></img>
                         </div>
                         <div className='box'>
-                            <img src='image/Multi-Banner-2.avif' alt='banner'></img>
+                            <img src={banner2} alt='banner2'></img>
                         </div>
                      </div>
                      <div className='right_box'>
                         <div className='top'>
-                            <img src='image/Multi-Banner-3.webp' alt='banner'></img>
-                            <img src='image/Multi-Banner-4.avif' alt='banner'></img>
+                            <img src={banner3} alt='banner3'></img>
+                            <img src={banner4} alt='banner4'></img>
                         </div>
                         <div className='bottom'>
-                            <img src='image/Multi-Banner-5.webp' alt='banner'></img>
+                            <img src={banner5} alt='banner5'></img>
                         </div>
                      </div>
                  </div>

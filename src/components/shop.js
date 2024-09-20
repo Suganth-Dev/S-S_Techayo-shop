@@ -4,6 +4,7 @@ import { FaHeart, FaEye } from "react-icons/fa";
 import { MdOutlineClose } from "react-icons/md";
 
 
+
 const Shop = ({shop, Filter, allcatefilter, addtocart}) => {
  // Toggle Product Detail
   const [showDetail, setShowDetail] = useState(false)
